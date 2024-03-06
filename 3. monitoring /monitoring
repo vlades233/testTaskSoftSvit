@@ -1,0 +1,2 @@
+#copy this to /etc/cron.d/
+* * * * * /path/to/cpuUsage.py
